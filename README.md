@@ -44,4 +44,4 @@ This script offers the following:
 Just Install the script and visit an app page and it will show up automatically.
 NOTE: You can control the element showing on the google play app by toggling the controls variable on the script.
 
-Made by Ayoub Fletcher with LOVE ❤️.
+Made by Ayoub Fletcher with LOVE ❤️ Honorable Mention Re-skinning 
